@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Evan
+I worked as a musician for years before discovering a love of programming in 2018. Since then I've studied and worked primarily as a web dev. In my free time I write music and make games in GameMaker. I just finished a batch at the [Recurse Center](https://www.recurse.com) and I'm looking for the next opportunity!
 
 <!--
 **evanconway/evanconway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
